@@ -42,7 +42,7 @@
   "main": "next.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eminbasbayan/food-ordering-udemy.git"
+    "url": "git+https://github.com/safase1/food-ordering.gits"
   },
   "keywords": [],
   "author": "",
@@ -50,5 +50,5 @@
   "bugs": {
     "url": "https://github.com/eminbasbayan/food-ordering-udemy/issues"
   },
-  "homepage": "https://github.com/eminbasbayan/food-ordering-udemy#readme"
+  "homepage": "https://github.com/safase1/food-ordering-udemy#readme"
 }
